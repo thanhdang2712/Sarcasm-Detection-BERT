@@ -18,6 +18,8 @@ We summarize our methodology and contributions in this work as follows:
 The research paper writeup for this project follows the Instructions for ACL Proceedings 2023. 
 
 ## Poster
-
+<img src="Sarcasm Detection Poster.svg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ## Acknowledgements
 We would like to thank Professor Grusha Prasad for the supportive guidance and insightful conversations.
